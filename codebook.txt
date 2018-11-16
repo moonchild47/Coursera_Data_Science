@@ -1,0 +1,143 @@
+[1] subject: subject identifier from 1 to 30 
+	1:30
+
+[2] activity: labels
+	walking
+	walkingupstairs
+	walkingdownstairs
+	sitting
+	standing
+	laying
+
+[3] timeBodyAcc-mean-X
+	Body acceleration mean value X direction time domain
+[4] timeBodyAcc-mean-Y
+	Body acceleration mean value Y direction time domain
+[5] timeBodyAcc-mean-Z
+	Body acceleration mean value Z direction time domain
+[6] timeBodyAcc-std-X
+	Body acceleration standard deviation X direction time domain
+[7] timeBodyAcc-std-Y
+	Body acceleration standard deviation Y direction time domain
+[8] timeBodyAcc-std-Z
+	Body acceleration standard deviation Z direction time domain
+[9] timeGravityAcc-mean-X
+	Gravity acceleration mean value X direction time domain
+[10] timeGravityAcc-mean-Y
+	Gravity acceleration mean value Y direction time domain
+[11] timeGravityAcc-mean-Z
+	Gravity acceleration mean value Z direction time domain
+[12] timeGravityAcc-std-X
+	Gravity acceleration standard deviation X direction time domain
+[13] timeGravityAcc-std-Y
+	Gravity acceleration standard deviation Y direction time domain
+[14] timeGravityAcc-std-Z
+	Gravity acceleration standard deviation Z direction time domain
+[15] timeBodyAccJerk-mean-X
+	Body acceleration jerk mean value X direction time domain
+[16] timeBodyAccJerk-mean-Y
+	Body acceleration jerk mean value Y direction time domain
+[17] timeBodyAccJerk-mean-Z
+	Body acceleration jerk mean value Z direction time domain
+[18] timeBodyAccJerk-std-X
+	Body acceleration jerk standard deviation X direction time domain
+[19] timeBodyAccJerk-std-Y
+	Body acceleration jerk standard deviation Y direction time domain
+[20] timeBodyAccJerk-std-Z
+	Body acceleration jerk standard deviation Z direction time domain
+[21] timeBodyGyro-mean-X
+	Body angular velocity mean value X direction time domain
+[22] timeBodyGyro-mean-Y
+	Body angular velocity mean value Y direction time domain
+[23] timeBodyGyro-mean-Z
+	Body angular velocity mean value Z direction time domain
+[24] timeBodyGyro-std-X
+	Body angular velocity standard deviation X direction time domain
+[25] timeBodyGyro-std-Y
+	Body angular velocity standard deviation Y direction time domain
+[26] timeBodyGyro-std-Z
+	Body angular velocity standard deviation Z direction time domain
+[27] timeBodyGyroJerk-mean-X
+	Body angular velocity jerk mean value X direction time domain
+[28] timeBodyGyroJerk-mean-Y
+	Body angular velocity jerk mean value Y direction time domain
+[29] timeBodyGyroJerk-mean-Z
+	Body angular velocity jerk mean value Z direction time domain
+[30] timeBodyGyroJerk-std-X
+	Body angular velocity jerk standard deviation X direction time domain
+[31] timeBodyGyroJerk-std-Y
+	Body angular velocity jerk standard deviation Y direction time domain
+[32] timeBodyGyroJerk-std-Z
+	Body angular velocity jerk standard deviation Z direction time domain
+[33] timeBodyAccMag-mean
+	Body acceleration magnitude (euclidian norm) mean value time domain
+[34] timeBodyAccMag-std
+	Body acceleration magnitude (euclidian norm) standard deviation time domain
+[35] timeGravityAccMag-mean
+	Gravity acceleration magnitude (euclidian norm) mean value time domain
+[36] timeGravityAccMag-std
+	Gravity acceleration magnitude (euclidian norm) standard deviation time domain
+[37] timeBodyAccJerkMag-mean
+	Body acceleration jerk magnitude (euclidian norm) mean value time domain
+[38] timeBodyAccJerkMag-std
+	Body acceleration jerk magnitude (euclidian norm) standard deviation time domain
+[39] timeBodyGyroMag-mean
+	Body angular velocity magnitude (euclidian norm) mean value time domain
+[40] timeBodyGyroMag-std
+	Body angular velocity magnitude (euclidian norm) standard deviation time domain
+[41] timeBodyGyroJerkMag-mean
+	Body angular velocity jerk magnitude (euclidian norm) mean value time domain
+[42] timeBodyGyroJerkMag-std
+	Body angular velocity jerk magnitude (euclidian norm) standard deviation time domain
+[43] freqBodyAcc-mean-X
+	Body acceleration mean value X direction frequency domain
+[44] freqBodyAcc-mean-Y
+	Body acceleration mean value Y direction frequency domain
+[45] freqBodyAcc-mean-Z
+	Body acceleration mean value Z direction frequency domain
+[46] freqBodyAcc-std-X
+	Body acceleration standard deviation X direction frequency domain
+[47] freqBodyAcc-std-Y
+	Body acceleration standard deviation Y direction frequency domain
+[48] freqBodyAcc-std-Z
+	Body acceleration standard deviation Z direction frequency domain
+[49] freqBodyAccJerk-mean-X
+	Body acceleration jerk mean value X direction frequency domain
+[50] freqBodyAccJerk-mean-Y
+	Body acceleration jerk mean value Y direction frequency domain
+[51] freqBodyAccJerk-mean-Z
+	Body acceleration jerk mean value Z direction frequency domain
+[52] freqBodyAccJerk-std-X
+	Body acceleration jerk standard deviation X direction frequency domain
+[53] freqBodyAccJerk-std-Y
+	Body acceleration jerk standard deviation Y direction frequency domain
+[54] freqBodyAccJerk-std-Z
+	Body acceleration jerk standard deviation Z direction frequency domain
+[55] freqBodyGyro-mean-X
+	Body angular velocity mean value X direction frequency domain
+[56] freqBodyGyro-mean-Y
+	Body angular velocity mean value Y direction frequency domain
+[57] freqBodyGyro-mean-Z
+	Body angular velocity mean value Z direction frequency domain
+[58] freqBodyGyro-std-X
+	Body angular velocity standard deviation X direction frequency domain
+[59] freqBodyGyro-std-Y
+	Body angular velocity standard deviation Y direction frequency domain
+[60] freqBodyGyro-std-Z
+	Body angular velocity standard deviation Z direction frequency domain
+[61] freqBodyAccMag-mean
+	Body acceleration magnitude (euclidian norm) mean value frequency domain
+[62] freqBodyAccMag-std
+	Body acceleration magnitude (euclidian norm) standard deviation frequency domain
+[63] freqBodyBodyAccJerkMag-mean
+	Body acceleration jerk magnitude (euclidian norm) mean value frequency domain
+[64] freqBodyBodyAccJerkMag-std
+	Body acceleration jerk magnitude (euclidian norm) standard deviation frequency domain
+[65] freqBodyBodyGyroMag-mean
+	Body angular velocity magnitude (euclidian norm) mean value frequency domain
+[66] freqBodyBodyGyroMag-std
+	Body angular velocity magnitude (euclidian norm) standard deviation frequency domain
+[67] freqBodyBodyGyroJerkMag-mean
+	Body angular velocity jerk magnitude (euclidian norm) mean value frequency domain
+[68] freqBodyBodyGyroJerkMag-std
+	Body angular velocity jerk magnitude (euclidian norm) standard deviation frequency domain
